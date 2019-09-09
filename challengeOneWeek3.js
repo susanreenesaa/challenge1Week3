@@ -12,4 +12,21 @@
     // return numbers;
 
 
-   
+    function evenAndOddNumbers(num){
+        for(i=0; i<num.length; i++){
+            if(num[i]%2===0){
+                even.push(num[i])
+            }
+            else if(num[i]%2 !=0){
+                odd.push(num[i]);
+           
+        }
+        }
+        
+    return object={
+        even:even.sort(),
+        odd:odd.sort(),
+        chars:chars
+    }
+    }
+console.log(evenAndOddNumbers(numbers));
