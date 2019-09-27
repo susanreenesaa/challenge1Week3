@@ -1,0 +1,22 @@
+{
+  "name": "week3challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challengeOneWeek3.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susanreenesaa/challenge1Week3.git"
+  },
+  "author": "susie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susanreenesaa/challenge1Week3/issues"
+  },
+  "homepage": "https://github.com/susanreenesaa/challenge1Week3#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
